@@ -1,0 +1,141 @@
+* {
+   margin:auto;
+   padding:px;
+   margin:px;
+   
+   
+    
+    
+    
+    
+}
+
+.background-image{
+    width:100%;
+    height:100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(beesty.jpg);
+    background-size:cover;
+    background-position:center;
+}
+
+ body {
+    
+    background-color:white;
+}
+
+.container {
+    
+    text-align: center;
+    
+    margin:
+    
+}
+
+.heading {
+
+margin-bottom: px;
+
+    
+    
+}
+
+h1 {
+    font-size:90px;
+    display:flex;
+    align-self:start;
+    text-shadow:5px 5px 15px rgb(143, 143, 143);
+    
+    
+    
+    
+}
+
+
+
+.image {
+
+    margin-bottom: 30px;
+
+    height:100vh;
+
+    margin-bottom: -60px;
+
+
+    
+
+}
+
+.pic {
+    
+    height:100vh;
+    height:70%;
+    box-shadow:20px 0 15pxpx;
+    width:;
+    
+}
+
+.main-se {
+
+    margin-top:30px;
+    
+    height: 100vh;
+
+    box-shadow: 15px 15px 20px rgba(0,0,0,0.5) ;width: 80%; padding:30px;
+
+    background-color:white;
+
+    padding-top:70px;
+    
+    padding-bottom: 60px;
+
+    height:100vh;
+    
+    transform: scale(0.95);
+
+    transform-origin: top left ;
+
+    width: 50%;
+
+}
+
+.sec-t {
+    margin-top:-160px;
+
+}
+
+
+h2 {
+
+    margin-bottom:15px;
+}
+
+p {
+    font-style: italic;
+
+    margin-bottom:40px;
+}
+
+button {
+
+    padding:10px 80px;
+    margin-bottom:90px;
+    border-radius: 5px;
+    border:1px solid black;
+    background-color: white;
+    font-family: ;
+    font-style:bold;
+    
+}
+
+button:hover {
+
+}
+.button-caption {
+
+    position: relative;top:-70px
+
+}
+.button-caption a {
+
+    text-decoration: none;
+}

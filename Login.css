@@ -1,0 +1,119 @@
+* {
+margin: auto;
+padding:px;
+transform:scale();
+}
+
+h1 {
+    font-size:90px;
+    display:flex;
+    align-self:start;
+    text-shadow:5px 5px 15px rgb(143, 143, 143);
+    
+    
+}
+
+.heading {
+
+    margin-bottom: px;
+    
+}
+
+.container {
+   
+
+
+
+    box-shadow:15px 15px 20px rgba(0,0,0,0.5) ;width:60%; padding:30px; 
+
+}
+
+.form-control {
+
+    margin-bottom: 30px;
+    padding: ;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    height: ;
+    ;
+    
+}
+
+.input {
+    padding: 10px;
+
+    width:240px;
+
+    font-weight: bold;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    border-radius:5px;
+
+    background-color:white;
+
+    border:1px solid rgb(136, 84, 16);
+
+    color: black;
+
+    
+}
+
+.button {
+    padding: 10px;
+    
+    width:280px;
+
+    font-weight: bold;
+
+    background-color:;
+
+    background-color:white;
+
+    border-radius:5px;
+     
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    cursor: pointer;
+
+    border: 1px solid rgb(136, 84, 16);
+}
+
+ .button-control {
+
+    margin-top:10px;
+
+}
+
+#google-button {
+
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+.google-icon {
+    width:15%;
+    margin-right: 10px;
+    display:flex;
+    margin-left:-55px;
+    position: relative;left:px
+}
+
+.apple-icon{
+
+    position:relative;left:;
+    display:flex;
+    align-items: center;
+}
+
+p {
+    position: relative;top: 30px;
+    font-style:italic ;
+}
